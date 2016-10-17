@@ -1,7 +1,5 @@
 # Pattern Libraries Can Change Your Life
 
-    #PatternLife 5 Incredibly helpful. I loved it!
-    
 Adam Mccombs -- Twitter: @adammccombs
 
 ## What is a pattern library?
@@ -82,8 +80,8 @@ If these same people used a pattern library, the hour count comes down because t
 
 * **Atoms**
 * *..leads to* **Molecules**
-* *..leads to* **Organisms** 
-* *..leads to* **Templates** 
+* *..leads to* **Organisms**
+* *..leads to* **Templates**
 * *..leads to* **Pages**
 
 ## Why pattern libraries are awesome
