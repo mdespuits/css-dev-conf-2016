@@ -8,3 +8,4 @@
 6. [Using Tomorrow's CSS Today](talks/using-tomorrows-css-today.md)
 7. [Reponsive Web Apps with Container Queries](talks/responsive-web-apps-with-container-queries.md)
 8. [Responsive D3.js](talks/responsive-d3js.md)
+9. [Perceived Performance](talks/perceived-performance.md)
