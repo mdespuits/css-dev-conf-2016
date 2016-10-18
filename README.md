@@ -6,3 +6,4 @@
 4. [Reactive Animations with CSS Variables](talks/reactive-animation-css-variables.md)
 5. [Living Style Guide](talks/living-style-guide.md)
 6. [Using Tomorrow's CSS Today](talks/using-tomorrows-css-today.md)
+7. [Reponsive Web Apps with Container Queries](talks/responsive-web-apps-with-container-queries.md)
